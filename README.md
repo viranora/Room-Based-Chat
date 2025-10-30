@@ -31,4 +31,4 @@ A full-stack, real-time chat application built with Node.js, Socket.IO, and Reac
 * **CORS**
 * **Nodemon** (for development)
 
-*** by nora ***
+by nora...
